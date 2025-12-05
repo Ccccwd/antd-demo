@@ -1,4 +1,4 @@
-import { render } from '@testing-library/react';
+
 import { Space, Table } from 'antd';
 import React from 'react';
 const columns = [
